@@ -1,5 +1,9 @@
-pandas
-scikit-learn
-kafka-python
-streamlit
-joblib
+﻿certifi==2026.10.23
+confluent-kafka==2.16.1
+ipykernel==7.4.0
+matplotlib==3.11.2
+numpy==2.5.5
+pandas==3.1.1
+python-dotenv==1.2.4
+scikit-learn==1.9.1
+seaborn==0.13.2
